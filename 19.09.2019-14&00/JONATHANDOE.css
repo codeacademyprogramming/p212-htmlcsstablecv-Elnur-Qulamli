@@ -1,0 +1,132 @@
+ /* table,
+th,
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}  */
+
+li{
+        list-style-type: none;
+}
+
+.download a{
+   text-decoration: none;
+   color: white;
+}
+
+.download a{ 
+    border: 1px solid #666666;
+    background-color: #666666;
+    padding: 3px 10px;
+ }
+
+ .download a:hover{ 
+    background-color: #222222; 
+ }
+.mail a{
+    color: #990003;
+    
+}
+.mail{
+    padding-top: 8px;
+}
+.number a{
+    color: #666666;
+}
+.number{
+    padding-top: 4px;
+}
+.name {
+    font-size: 48px;
+    margin-right: 40%; 
+}
+
+.webdesigner{
+    font-size: 152%;
+    margin-right: 46%;
+}
+
+body{
+    color:#333333;
+}
+
+.profile span{
+    font-size: 150%;
+    padding-right: 80px;
+    padding-bottom: 37px;   
+    padding-left: 80px;
+    }
+
+.profile p{
+font-size: 150%;
+padding-left: 30px;
+}
+.profile p{
+    font-size: 18px;
+    padding-left: 350px;
+}
+
+table {
+    margin: auto;
+    background-color: #F5F5F5;
+}
+
+.skills {
+    display: inline-block;
+    vertical-align: top; 
+}
+.skills header{
+    margin-top: 20px;
+}
+.skills p{
+margin-top: 5px;
+}
+.technical{
+        display: inline-block;
+      vertical-align: top;   
+    }
+
+.skills span{
+    font-size: 150%;
+    padding-top: 0px;
+    padding-bottom: 120px;
+    padding-left: 77px;
+}
+
+.technical span{
+    font-size: 150%;
+padding-top: 0px;
+    padding-left: 74px;
+}
+
+.experience span{
+    font-size: 150%;
+    padding-left: 72px;
+}
+.experience header{
+    margin-top: 0px;
+}
+.experience p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.education span{
+    font-size: 150%;
+    padding-left: 73px;
+}
+
+.main{
+    width: 75%;
+    border-top: 8px solid #666666;
+    border-bottom: 3px solid #666666;
+    margin:auto;
+}
+
+.finish{
+     text-align: center;  
+}
+
+.finish a{
+    color:#990003;
+}
+
